@@ -79,3 +79,9 @@ Estas características fueron seleccionadas para su inclusión en el análisis f
 ## Evaluación y Monitoreo
 
 Se han utilizado diversas métricas de evaluación, como precisión, recall, F1-score, y curvas ROC-AUC, para evaluar el rendimiento de los modelos en la detección de transacciones fraudulentas. Además, se ha implementado un sistema de monitoreo continuo para detectar y abordar el data drift en tiempo real.
+
+## Resultados
+![image](https://github.com/ChristopherG19/UVG_SDS_Proyecto2/assets/60325784/110e730b-d016-4f94-8be6-17bd0997920e)
+![image](https://github.com/ChristopherG19/UVG_SDS_Proyecto2/assets/60325784/a9671ade-3621-47ef-bd15-a66709f6aa62)
+![image](https://github.com/ChristopherG19/UVG_SDS_Proyecto2/assets/60325784/9a1af19d-8aba-46dd-b45f-b36b65ecfaf5)
+![image](https://github.com/ChristopherG19/UVG_SDS_Proyecto2/assets/60325784/977ecff8-eaf5-4efc-b77f-5a2912197fc3)
